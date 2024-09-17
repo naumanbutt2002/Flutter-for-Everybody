@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585374901800",
+    "project_id": "fir-d-app-c3e91",
+    "storage_bucket": "fir-d-app-c3e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585374901800:android:977fc213d3470f139b771d",
+        "android_client_info": {
+          "package_name": "com.naumanbutt2002.firebased_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeTCN1uaVuZ9kjGHXeua_BnPLkEw4sIXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
